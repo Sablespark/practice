@@ -1,0 +1,1 @@
+I pressed i for the insert mode. This lets me type freely within the text file and any other file that i open.
